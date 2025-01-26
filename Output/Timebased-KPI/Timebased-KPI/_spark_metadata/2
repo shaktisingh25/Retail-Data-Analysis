@@ -1,0 +1,2 @@
+v1
+{"path":"hdfs://ip-172-31-78-121.ec2.internal:8020/user/hadoop/timeKPI/part-00000-4be92436-d444-433c-8e5c-b16730e13411-c000.json","size":0,"isDir":false,"modificationTime":1722151566250,"blockReplication":1,"blockSize":134217728,"action":"add"}
